@@ -1,4 +1,4 @@
 # Coconut
-Coconut. A simple language competing with Small Basic. Lexer and compiler written in Python, outputs code in C++
+Coconut. A simple language competing with Small Basic. Lexer and Compiler written in C++. Outputs Small Basic code
 
 File extension *.coco
